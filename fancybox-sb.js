@@ -19,7 +19,7 @@
     },
     n) {
         if (n.fn.fancybox)
-            return void console.info("fancyBox already initialized");
+            return void console.info("dohomeart fancyBox already initialized");
         var a = {
             closeExisting: !1,
             loop: !1,
